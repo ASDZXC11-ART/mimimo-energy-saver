@@ -1,0 +1,26 @@
+[
+    {
+        "id": "001",
+        "name": "客厅空调",
+        "type": "air_conditioner",
+        "status": "on",
+        "power_consumption": 1200.5,
+        "runtime_hours": 5.5
+    },
+    {
+        "id": "002",
+        "name": "卧室空气净化器",
+        "type": "air_purifier",
+        "status": "idle",
+        "power_consumption": 15.2,
+        "runtime_hours": 24.0
+    },
+    {
+        "id": "003",
+        "name": "扫地机器人",
+        "type": "vacuum",
+        "status": "charging",
+        "power_consumption": 25.0,
+        "runtime_hours": 1.5
+    }
+]
